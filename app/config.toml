@@ -29,7 +29,7 @@ headless = true
 
 # Immediately share the app in such a way that enables live monitoring, and post-run analysis.
 # Default: false
-liveSave = false
+
 
 # Automatically rerun script when the file is modified on disk.
 # Default: false
